@@ -44,7 +44,7 @@ The main goal of this project is to analyze movie ratings and uncover patterns a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Shivendra-Dwivedi/Movies-Rating-Analysis.git
+git clone https://github.com/your-username/movies-rating-analysis.git
 cd movies-rating-analysis
 ```
 
